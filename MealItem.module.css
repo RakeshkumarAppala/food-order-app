@@ -1,0 +1,29 @@
+.meal-item-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid gray;
+}
+
+.item-name{
+    margin: 0;
+    font-weight: bold;
+    line-height: 1.8;
+}
+
+.item-desc{
+    margin: 0;
+    font-style: italic;
+    line-height: 1.5;
+    font-size: 0.9rem
+}
+
+.item-amt{
+    color: #ad5502;
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.8;
+}
+

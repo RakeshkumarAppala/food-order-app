@@ -1,0 +1,27 @@
+.cart-btn{
+    border-radius: 25px;
+    padding: 0.75rem 3rem;
+    border: none;
+    color: #fff;
+    background-color: #4d1601;
+    font: inherit;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.badge{
+    padding: 0.25rem 1rem;
+    background-color: #b94517;
+    border-radius: 8px;
+    margin-left: 1rem;
+    font-weight: bold;
+    border-radius: 25px;
+}
+
+.icon{
+    width: 1.35rem;
+    height: 1.35rem;
+    margin-right: 0.5rem;
+}
